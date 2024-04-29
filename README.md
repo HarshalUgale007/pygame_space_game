@@ -41,7 +41,4 @@ But the adventure doesn't end here! Here are the future improvements I plan to i
 
 ---
 
-**[Your Name]** - [GitHub](https://github.com/yourusername) - [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
-
-
 **[Harsh Ugale]** - [GitHub](https://github.com/HarshalUgale007) - [LinkedIn](https://linkedin.com/in/harshal-ugale)

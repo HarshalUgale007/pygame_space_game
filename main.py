@@ -10,7 +10,7 @@ WIDTH, HEIGHT = 1000, 800
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Station")
 
-BG = pygame.transform.scale(pygame.image.load("pexels.jpg"), (WIDTH, HEIGHT))
+BG = pygame.transform.scale(pygame.image.load("C:\\Users\\HP\\Desktop\\Projects\\PyBaseGame\\pexels.jpg"), (WIDTH, HEIGHT))
 
 PLAYER_WIDTH = 40
 PLAYER_HEIGHT = 60
